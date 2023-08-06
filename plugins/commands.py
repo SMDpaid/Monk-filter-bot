@@ -47,9 +47,9 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('💥 Main Channal 💥', url='https://t.me/SAM_DUB_LEZHa'),
+            InlineKeyboardButton('💥 Main Channal 💥', url='https://t.me/keerthu_offl'),
 
-            InlineKeyboardButton('🔎 Request Group 🔍', url='https://t.me/+LV_Q9SsajwRkNjdl')
+            InlineKeyboardButton('🔎 Request Group 🔍', url='https://t.me/keerthirequest')
 
             ],[
 
@@ -104,8 +104,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/SAM_DUB_LEZHa'),
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+LV_Q9SsajwRkNjdl')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/keerthu_offl'),
+            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/keerthirequest')
             ],[
             InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
             ],[
